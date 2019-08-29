@@ -1,2 +1,2 @@
 # Meta-Agent
-Meta-Agent for few shot learning
+Meta-Agent for Few Shot Learning
